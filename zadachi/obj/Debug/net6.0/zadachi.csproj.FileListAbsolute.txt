@@ -1,0 +1,15 @@
+D:\GeekBrains\c#2\zadachi\bin\Debug\net6.0\zadachi.exe
+D:\GeekBrains\c#2\zadachi\bin\Debug\net6.0\zadachi.deps.json
+D:\GeekBrains\c#2\zadachi\bin\Debug\net6.0\zadachi.runtimeconfig.json
+D:\GeekBrains\c#2\zadachi\bin\Debug\net6.0\zadachi.dll
+D:\GeekBrains\c#2\zadachi\bin\Debug\net6.0\zadachi.pdb
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.csproj.AssemblyReference.cache
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.AssemblyInfoInputs.cache
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.AssemblyInfo.cs
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.csproj.CoreCompileInputs.cache
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.dll
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\refint\zadachi.dll
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.pdb
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\zadachi.genruntimeconfig.cache
+D:\GeekBrains\c#2\zadachi\obj\Debug\net6.0\ref\zadachi.dll
